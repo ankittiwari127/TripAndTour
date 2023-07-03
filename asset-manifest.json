@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TripAndTour/static/css/main.173b5c2d.css",
+    "main.js": "/TripAndTour/static/js/main.024b3ac4.js",
+    "static/media/daguldul 2.jpg": "/TripAndTour/static/media/daguldul 2.2990a0b04b9945318cd5.jpg",
+    "static/media/malasiya.jpg": "/TripAndTour/static/media/malasiya.c84ff2c5fedf1231e464.jpg",
+    "static/media/Taal-Volcano-4.jpg": "/TripAndTour/static/media/Taal-Volcano-4.60dc2cb9a5a6b4d6356d.jpg",
+    "static/media/daguldul 1.jpg": "/TripAndTour/static/media/daguldul 1.0cc131a45b39fbdf8cc2.jpg",
+    "static/media/newing1.jpg": "/TripAndTour/static/media/newing1.7d28d4000699f7a936e6.jpg",
+    "static/media/Taal-Volcano-1.jpg": "/TripAndTour/static/media/Taal-Volcano-1.40aa393228a97dc8d713.jpg",
+    "static/media/newing2.jpg": "/TripAndTour/static/media/newing2.1a4c7b9bd9b55f6a1741.jpg",
+    "static/media/newing4.jpg": "/TripAndTour/static/media/newing4.cc8b259e3372068dbdf0.jpg",
+    "static/media/newing3.jpg": "/TripAndTour/static/media/newing3.974010b93aa44e6fd8b7.jpg",
+    "static/media/newing5.jpg": "/TripAndTour/static/media/newing5.dfd3b741940202896bec.jpg",
+    "static/media/switzerland.jpg": "/TripAndTour/static/media/switzerland.63479d57775251a14963.jpg",
+    "static/media/Trip1.jpg": "/TripAndTour/static/media/Trip1.9ecc7ccaf618ff0f69bd.jpg",
+    "index.html": "/TripAndTour/index.html",
+    "main.173b5c2d.css.map": "/TripAndTour/static/css/main.173b5c2d.css.map",
+    "main.024b3ac4.js.map": "/TripAndTour/static/js/main.024b3ac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.173b5c2d.css",
+    "static/js/main.024b3ac4.js"
+  ]
+}
